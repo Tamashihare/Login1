@@ -1,0 +1,18 @@
+C:\Users\FelmiPutraPC\AppData\Local\Temporary Projects\program123\bin\Debug\program123.exe
+C:\Users\FelmiPutraPC\AppData\Local\Temporary Projects\program123\bin\Debug\program123.pdb
+C:\Users\FelmiPutraPC\AppData\Local\Temporary Projects\program123\bin\Debug\program123.xml
+C:\Users\FelmiPutraPC\AppData\Local\Temporary Projects\program123\obj\x86\Debug\program123.Form1.resources
+C:\Users\FelmiPutraPC\AppData\Local\Temporary Projects\program123\obj\x86\Debug\program123.Resources.resources
+C:\Users\FelmiPutraPC\AppData\Local\Temporary Projects\program123\obj\x86\Debug\program123.vbproj.GenerateResource.Cache
+C:\Users\FelmiPutraPC\AppData\Local\Temporary Projects\program123\obj\x86\Debug\program123.exe
+C:\Users\FelmiPutraPC\AppData\Local\Temporary Projects\program123\obj\x86\Debug\program123.xml
+C:\Users\FelmiPutraPC\AppData\Local\Temporary Projects\program123\obj\x86\Debug\program123.pdb
+C:\Users\FelmiPutraPC\Documents\Visual Studio 2010\Projects\program123\program123\obj\x86\Debug\program123.exe
+C:\Users\FelmiPutraPC\Documents\Visual Studio 2010\Projects\program123\program123\obj\x86\Debug\program123.xml
+C:\Users\FelmiPutraPC\Documents\Visual Studio 2010\Projects\program123\program123\obj\x86\Debug\program123.pdb
+C:\Users\FelmiPutraPC\Documents\Visual Studio 2010\Projects\program123\program123\bin\Debug\program123.exe
+C:\Users\FelmiPutraPC\Documents\Visual Studio 2010\Projects\program123\program123\bin\Debug\program123.pdb
+C:\Users\FelmiPutraPC\Documents\Visual Studio 2010\Projects\program123\program123\bin\Debug\program123.xml
+C:\Users\FelmiPutraPC\Documents\Visual Studio 2010\Projects\program123\program123\obj\x86\Debug\program123.Form1.resources
+C:\Users\FelmiPutraPC\Documents\Visual Studio 2010\Projects\program123\program123\obj\x86\Debug\program123.Resources.resources
+C:\Users\FelmiPutraPC\Documents\Visual Studio 2010\Projects\program123\program123\obj\x86\Debug\program123.vbproj.GenerateResource.Cache
